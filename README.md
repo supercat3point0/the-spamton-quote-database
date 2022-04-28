@@ -420,3 +420,110 @@
   - I'M SO \[Proud\] OF YOU, I COULD \[Killed\] YOU!
 - \[Heaven\], are you WATCHING?
 - IT'S TIME TO MAKE A VERY \[Specil\] DEAL...
+
+### Battle
+
+- KRIS! ISN'T THIS \[Body\] JUST \[Heaven\]LY!?
+- 3X THE \[Fire\]POWER. 2X THE \[Water\]POWER. AND BEST OF ALL, FLYING \[Heads\]!
+
+---
+
+- WE'LL TURN THOSE \[Schmoes\] AND \[Daves\] INTO \[Rosen Graves\]
+- THOSE \[Cathode Screens\] INTO \[Cathode Screams\]
+
+---
+
+- KRIS, DON'T YOU WANNA BE \[Part\] OF MY BEAUTIFUL \[Heart\]?!
+- OR... DID YOU NEED A LITTLE \[Specil Tour\]?
+
+---
+
+- ALL YOU GOTTA DO IS \[Big.\]
+- THEN WE'LL BE THE ONES MAKING THE \[Calls\], KRIS!
+
+---
+
+- WHAT!? WHAT? ARE YOU SERIOUS!? ... IT'S FOR YOU.
+
+---
+
+- IT'S CALLING, KRIS... MY \[Heart\]... MY \[Hands\]...
+
+---
+
+- KRIS! CAN YOU REALLY LOOK IN MY \[Eyes\] AND SAY NO!?
+- LOOK IN MY \[Eyes\] LOOK IN MY \[Nose\] LOOK IN MY \[Mouth\]
+
+---
+
+- I CAN'T STAND IT!!! I THINK I'M GONNA HAVE A \[HeartAttack\]!
+
+---
+
+- \[Friends\]!? KRIS!? WHAT ARE YOU TALKING ABOUT!?
+- YOU DON'T NEED \[Friends\]!!
+- I CAN MAKE MY HANDS INTO PHONES!!!
+
+---
+
+- KRIS, I'LL EVEN GIVE YOU A \[Free Value\]
+- \[Die Now\] AND I'LL THROW IN \[50\] \[Bullets\] FOR FREE!
+
+---
+
+- DON'T YOU WANNA HELP YOUR OLD PAL SPAMTON?
+- KRIS!! THINK! WHAT ARE MY \[Eggs\] GOING TO DO!?
+
+---
+
+- KRIS. IF YOU GIVE ME THAT \[Soul\] I WILL GIVE YOU EVERYTHING I HAVE.
+- I WILL GIVE YOU \[3 Easy Payments of $9.99!\]
+
+---
+
+- BUT KRIS, IF YOU REFUSE. THAT'S YOUR CHOICE. I CAN'T FORCE YOU.
+- I CAN ONLY \[Kill\] YOU \[50-percent faster than similar products\] OR \[No Money Back!\]
+
+---
+
+- KRIS!!! TAKE THE DEAL!!! TAKE IT!!!
+- DO YOU WANNA BE A \[Heart\] ON A \[Chain\] YOUR WHOLE LIFE!?
+
+---
+
+- OR... DID YOU WANT TO BE...
+- Did you wanna be...
+- WHAT!? IT'S FOR ME!?
+
+---
+
+- KRIS... I WON'T FORCE YOU. I CAN'T. I CAN'T FORCE YOU.
+- BUT JUST LOOK, KRIS. LOOK AT THE \[Power of NEO\] AND ASK YOURSELF...
+- WELL, DON'T YOU?
+- DON'T YOU WANNA BE A \[Big Shot\]!?
+
+---
+
+- \[Clown\]!? NO!!! I FEEL SICK!!!
+
+---
+
+- \[The Smooth Taste Of\] NEO
+
+---
+
+- CAN A \[Little Sponge\] DO THIS?
+- GO \[Ga-Ga\] AND \[Die\]
+
+---
+
+- DON'T YOU WANNA BE A \[Big Shot\]!?
+
+---
+
+- \[BreaKing\] and \[CracKing\]
+
+---
+
+- THE \[@$@!\] TASTE OF SPAMTON
+- 
