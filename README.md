@@ -175,21 +175,9 @@
   - There's nothing wrong. There's NOTHING WRONG. THERE'S NOTHING WRONG.
 - **Subsequent Turns**
   - Great ENEMY! SUSCRIBE NOW!
-
----
-
   - Spamton mutters "1997."
-
----
-
   - Smells like KROMER.
-
----
-
   - CONGRULATIONS YOU ARE THE 100th VISITOR!!! CLICK HERE TO \[Die\]
-
----
-
   - Spamton flashes an award-losing smile.
 
 ## Neutral
