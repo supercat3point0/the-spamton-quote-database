@@ -1,6 +1,6 @@
 ![Spamton](/spamton.png)
 
-# Spamton Dialog
+# The Spamton Quote Database
 
 ## Initial Encounter
 
@@ -333,14 +333,16 @@
 - TRY A LITTLE \[Friday Night Work Out\]...
 - THEN I'LL SHOW YOU MY
 - THEN I'LL SHOW YOU MY
-- 4 LEFT.
+<!--19 is the number of enemies left-->
+- 19 LEFT.
 
 ---
 
 - GET STRONGER!
 - THEN I'LL SHOW YOU MY
 - THEN I'LL SHOW YOU MY
-- 4 LEFT.
+<!--19 is the number of enemies left-->
+- 19 LEFT.
 
 ---
 
@@ -527,3 +529,57 @@
 ---
 
 - THE \[@$@!\] TASTE OF SPAMTON
+
+#### Win
+
+##### Spare
+
+- WAIT!! \[$!?!\] THE PRESSES!
+- MY... MY \[Wires\]... THEY'RE ALMOST \[Gone\]!?
+- KRIS... YOU... YOU'RE \[Gifting\] ME MY \[Freedom\]?!
+- KRIS... AFTER EVERYTHING I DID TO YOU...!?
+- AFTER ALL THE \[Unforgettable D3als\] \[Free KROMER\] I GAVE YOU
+- YOU'RE FINALLY REPAYING MY \[Genorisity\]!?
+- KRIS!!! I UNDERSTAND NOW!! THE GREATEST DEAL OF ALL!!!
+- \[Friendship\]!!!
+- KRIS!!! MY DAYS AS A \[Long-Nosed Doll\] ARE OVER!!!
+- CUT THAT \[Wire\] AND MAKE ME A \[Real Boy\]!!
+- ARE YOU WATCHING, \[Heaven\]!? IT'S TIME FOR SPAMTON'S \[Comeback Special\]!
+- AND THIS TIME... I LIVE FOR MYSELF!!!
+- NO... MYSELF AND MY \[Friend(s)\]!!!
+- HERE I GO!!!! WATCH ME FLY, \[MAMA\]!!!!
+
+##### Kill
+
+- WAIT!! \[$!?!\] THE PRESSES!
+- HAHAHA... KRIS!!! YOU THINK DEPLETING MY \[8000 Life Points\]
+- MEANS YOU'VE WON \[A Free Meal\] TO \[Winning\]?!
+- NO!!! NO!!! NE-O!!
+- KRIS!! YOUR \[Deal\] HAS FAILED!! \[NEO\] NEVER LOSES!!
+- THIS IS \[Victory Smoke\]!! IT MEANS IT'S TIME FOR MY \[Second Form\]!
+- ARE YOU READY KRIS!? FOR MY \[Next Trick\]!
+- I WILL FILL MY \[Body\] WITH \[Electricaty\] AND BECOME SPAMTON \[EX\]!
+- ARE YOU READY \[Kids\]!?
+- \[Turn up the JUICE!\] \[Turn up the JUICE!\]
+- \[Make Sure You Don't Get It On Your Shoese!\]
+- ARE YOU GETTING ALL THIS \[Mike\]!? I'M FINALLY
+- I'M FINALLY GONNA BE A BIG SHOT!!!
+- HERE I GO!!!! WATCH ME FLY, \[MAMA\]!!!!
+
+### Post-Battle
+
+- It seems after all I couldn't be anything more than a simple puppet.
+- But you three... You're strong.
+- With a power like that...
+- Maybe you three can break your own strings.
+- Let me become your strength.
+
+---
+
+- ... Kris...? Kris!? KRIS!?!?!?
+- YOU FILLED YOUR \[Inventorium\] WITH \[Half-Pr1ce Sallamy\] JUST TO KEEP ME OUT!?
+<!--The game pauses on "F" for a significant duration-->
+- WHAT! THE! \[Fifty Percent Off\]!?
+- YOU CAN CARRY LIKE 48 ITEMS!!!
+- \[Why\] DID YOU DO THIS!? WHY!? \[Y\]!? \[Yellow\]!? \[Gamma\]!?
+- NOT \[Cool\] KRIS! I'LL BE IN MY \[Trailer\]!
