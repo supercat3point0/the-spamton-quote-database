@@ -1,4 +1,4 @@
-![Spamton][https://static.wikia.nocookie.net/deltarune/images/d/d9/Spamton_battle_static.png/revision/latest/scale-to-width-down/50?cb=20210927100213]
+![Spamton](https://static.wikia.nocookie.net/deltarune/images/d/d9/Spamton_battle_static.png/revision/latest/scale-to-width-down/50?cb=20210927100213)
 
 # Spamton Dialog
 
