@@ -162,7 +162,7 @@
 - AT LEAST BUY \[2\]!
 - TOO BAD! SEE YOU KID!
 
-#### Flavor Text
+### Flavor Text
 
 - **Encounter**
   - DON'T YOU WANNA BE A BIG SHOT?
@@ -333,16 +333,16 @@
 - TRY A LITTLE \[Friday Night Work Out\]...
 - THEN I'LL SHOW YOU MY
 - THEN I'LL SHOW YOU MY
-<!--19 is the number of enemies left-->
-- 19 LEFT.
+<!--4 is the number of enemies left-->
+- 4 LEFT.
 
 ---
 
 - GET STRONGER!
 - THEN I'LL SHOW YOU MY
 - THEN I'LL SHOW YOU MY
-<!--19 is the number of enemies left-->
-- 19 LEFT.
+<!--4 is the number of enemies left-->
+- 4 LEFT.
 
 ---
 
@@ -375,7 +375,9 @@
 
 ## Spamton NEO
 
-### Pre-Battle
+### Normal
+
+#### Pre-Battle
 
 - HOLY \[\[Cungadero\]\] DO I FEEL GOOD ...
 - HERE I AM!! KRIS!!
@@ -424,7 +426,7 @@
 - \[Heaven\], are you WATCHING?
 - IT'S TIME TO MAKE A VERY \[Specil\] DEAL...
 
-### Battle
+#### Battle
 
 - KRIS! ISN'T THIS \[Body\] JUST \[Heaven\]LY!?
 - 3X THE \[Fire\]POWER. 2X THE \[Water\]POWER. AND BEST OF ALL, FLYING \[Heads\]!
@@ -530,9 +532,9 @@
 
 - THE \[@$@!\] TASTE OF SPAMTON
 
-#### Win
+##### Win
 
-##### Spare
+###### Spare
 
 - WAIT!! \[$!?!\] THE PRESSES!
 - MY... MY \[Wires\]... THEY'RE ALMOST \[Gone\]!?
@@ -549,7 +551,7 @@
 - NO... MYSELF AND MY \[Friend(s)\]!!!
 - HERE I GO!!!! WATCH ME FLY, \[MAMA\]!!!!
 
-##### Kill
+###### Kill
 
 - WAIT!! \[$!?!\] THE PRESSES!
 - HAHAHA... KRIS!!! YOU THINK DEPLETING MY \[8000 Life Points\]
@@ -566,7 +568,7 @@
 - I'M FINALLY GONNA BE A BIG SHOT!!!
 - HERE I GO!!!! WATCH ME FLY, \[MAMA\]!!!!
 
-### Post-Battle
+#### Post-Battle
 
 - It seems after all I couldn't be anything more than a simple puppet.
 - But you three... You're strong.
@@ -583,3 +585,154 @@
 - YOU CAN CARRY LIKE 48 ITEMS!!!
 - \[Why\] DID YOU DO THIS!? WHY!? \[Y\]!? \[Yellow\]!? \[Gamma\]!?
 - NOT \[Cool\] KRIS! I'LL BE IN MY \[Trailer\]!
+
+### Snowgrave
+
+#### Pre-Battle
+
+- ***\[Narration\]*** (It was as if your very SOUL was glowing...)
+- ***\[Spamton\]*** NOT!!!
+- LET ME SAY
+- LET ME SAY \[Thanks \]
+- THANKS TO YOUR \[Total Jackass stunts\] I HAVE \[Becomed\] NEO.
+- AND NOW IT'S MY \[Mansion\]! MY \[City\] MY \[World\]!
+- SO WHY ARE YOU \[Stealing\] THE \[Fountain\]!?
+- TO \[$!$!\] ME OVER RIGHT AT THE \[Good part\]!? WHAT ARE YOU, A \[Gameshow Host\]!?
+- AH, KID, FORGET IT. I'M AN \[HonestMan\].
+- I'LL LET YOU \[Pay\] YOUR WAY OUT OF THIS ONE!!
+- \[Pay\]...
+- WITH YOUR \[Rapidly-Shrinking\] LIFE!!!
+
+#### Battle
+
+- I REMEMBER WHEN YOU WERE JUST A LOST \[Little Sponge\].
+- SLEEPING AT THE BOTTOM OF A DUMPSTER!
+
+---
+
+- I GAVE YOU EVERYTHING I HAD! MY LIFE ADVICE!
+- I TOLD YOU \[4 Left\] AND ASKED YOU \[Buy\] OR \[Don't Buy\]!
+
+---
+
+- I GAVE YOU MY \[Commemorative Ring\] FOR THE PRICE OF \[My Favorite Year\]!
+
+---
+
+- AND THIS IS HOW YOU \[Repay\] ME!? TREATING ME LIKE \[DLC\]!?
+
+---
+
+- WHAT!? WHAT? ARE YOU SERIOUS!? ... IT'S FOR YOU.
+
+---
+
+- NO, I GET IT! IT'S YOU AND THAT \[Hochi Mama\]!
+- YOU'VE BEEN \[Making\], HAVEN'T YOU!
+
+---
+
+- YOU'VE BEEN MAKING \[Hyperlink Blocked\]!
+
+---
+
+- AND NOW THAT YOU HAVE YOUR OWN SUPPLY, YOU DON'T NEED ME!!!
+
+---
+
+- I WAS TOO \[Trusting\] TOO \[Honest\].
+- I'VE ALWAYS BEEN A MAN OF THE \[PIPIS\]. A REAL \[PIPIS\] PERSON!
+
+---
+
+- I SHOULD HAVE KNOWN YOU WOULD HAVE USED MY \[Ring\] FOR \[Evil\]...
+- OH, \[Right\]. THAT'S WHY I SOLD IT TO YOU
+
+---
+
+- YOU THINK MAKING \[Frozen Chicken\] WITH YOUR \[Side Chick\]
+- IS GONNA LET YOU DRINK UP THAT \[Sweet, Sweet\] \[Freedom Sauce\]?
+
+---
+
+- WELL, YOU'RE \[$!$!\] RIGHT! BUT DON'T BLAME ME
+- WHEN YOU'RE \[Crying\] IN A \[Broken Home\] WISHING YOU LET YOUR OLD PAL SPAMTON \[Kill You\]
+
+---
+
+- MY ESTEEM CUSTOMER I SEE YOU ARE ATTEMPTING TO DEPLETE MY HP!
+- I'LL ADMIT YOU'VE GOT SOME \[Guts\] KID!
+- BUT IN A \[1 for 1\] BATTLE, NEO NEVER LOSES!!!
+- IT'S TIME FOR A LITTLE \[Bluelight Specil\].
+- DIDN'T YOU KNOW \[Neo\] IS FAMOUS FOR ITS HIGH DEFENSE!?
+- NOW... ENJ0Y THE FIR3WORKS, KID!!!
+
+---
+
+- ENJOY THE FIREWORKS, KID!!!!
+
+---
+
+- WHAT!? YOU'RE CALLING FRIENDS!?
+- YOU THINK YOU CAN BEAT ME WITH YOUR FRIENDS' \[Magic\]!?
+- GO AHEAD, \[Kid\]...
+- CALL ALL YOU WANT!
+- NO ONE WILL EVER PICK UP
+
+---
+
+- GO AHEAD AND \[Scream\] INTO THE \[Receiver\].
+- THE \[Voice\] RUNS OUT EVENTUALLY.
+- YOUR \[Voice\] THEIR \[Voice\].
+- UNTIL YOU REALIZE YOU ARE ALL ALONE
+
+---
+
+- THERE WILL BE NO MORE \[Miracles\] NO MORE \[Magic\].
+- YOU LOST IT WHEN YOU TRIED TO SEE TOO FAR....
+- ... YOU LOST IT...
+
+---
+
+- YOU MAKE ME \[Sick\]!
+- MUTTERING YOUR \[Lost Friends\] NAMES AT THE BOTTOM OF A \[Dumpster\]!
+- NO ONE'S GONNA HELP YOU!!!
+- GET THAT THROUGH YOUR \[Beautiful Head\], YOU LITTLE \[Worm\]!
+
+---
+
+- ... HER?
+- YOU'RE STILL TRYING TO \[Use\] HER!?
+- HA HA HA HA!!!
+- YOU THINK SHE CAN \[Hear\] YOU NOW, MUTTERING HER NAME!?
+- WHAT'S SHE GONNA DO, MAKE ME AN \[Ice Cream\]!?
+- HEY, IS IT COLD IN HERE OR IS IT JUST ME?
+
+### Flavor Text
+
+- **Encounter**
+  - It's time to be a BIG SHOT!
+- **\[Check\]**
+  <!--"PAIN" is in red-->
+  - YOU WON'T FIND HIGHER ATTACK AND DEFENSE ANYWHERE ELSE!!! THE SMOOTH TASTE OF NEO "WAKE UP AND TASTE THE PAIN".
+- **\[Check\] Again**
+  - He is his own worst invention.
+- **Neutral**
+  - Hold and release \[Z\] to fire a BIG SHOT!
+  - Spamton turns to the audience and laughs.
+  - Spamton appeals to the audience with a festive jig!
+  - Spamton begs to the audience, Spamton prays to the audience.
+  - There is no audience.
+  - The stage lights are shattered.
+  - The air crackles with freedom.
+  - It pulls the strings and makes them ring.
+  - Spamton begs the audience to stop taking the furniture out of his room.
+  - Smells like rotten glass.
+  - Spamton feels the sweet breeze as he takes a ride around town.
+- **Snowgrave, Final Phase**
+  - Spamton Neo's ATTACK dropped! Spamton Neo's DEFENSE rose greatly!
+  - Spamton NEO recovered HP with Pipis!
+  - Spamton NEO's DEFENSE is towering.
+- **Call For Help**
+  - Kris called for help... ... but nobody came.
+  - You whispered Noelle's name...
