@@ -351,6 +351,7 @@
       - **\[Yes\]**
         - HERE'S YOUR \[Ring\]! CAREFUL, IT MIGHT \[Sting\]
         - EAHEAHEAH
+        - (You got the ThornRing.)
       - **Not enough money**
         - \[Money\] NO
       - **Full inventory**
@@ -526,4 +527,3 @@
 ---
 
 - THE \[@$@!\] TASTE OF SPAMTON
-- 
