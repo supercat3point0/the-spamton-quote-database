@@ -180,7 +180,7 @@
   - CONGRULATIONS YOU ARE THE 100th VISITOR!!! CLICK HERE TO \[Die\]
   - Spamton flashes an award-losing smile.
 
-## Neutral
+## Normal
 
 ### Upon Entrance
 
@@ -367,3 +367,54 @@
 
 - DON'T WORRY! FOR OUR \[No Money Back Guaranttee\]
 - THIS IS \[One Purchase\] YOU WILL \[Regret\] FOR THE REST OF YOUR LIFE!
+
+## Spamton NEO
+
+### Pre-Battle
+
+- HOLY \[\[Cungadero\]\] DO I FEEL GOOD ...
+- HERE I AM!! KRIS!!
+- BIG
+- BIG,
+- \[\[BIGGER AND BETTER THAN EVER\]\]
+- HA HA HA ... THIS POWER IS
+- FREEDOM.
+- I WON'T HAVE TO BE
+  - JUST A PUPPET
+  - ANY MORE!!!!
+- ...
+- OR... so... I... thought.
+- WHAT ARE THESE STRINGS!?
+  - WHY AM I NOT \[BIG\] ENOUGH!?
+  - It's still DARK... SO DARK!
+- KRIS.
+- KRIS.
+  - KRIS.
+  - KRIS.
+- THAT'S RIGHT.
+  - YOU.
+  - I NEED YOU.
+- TO BE BIG.
+  - WITH ME.
+- VERY&nbsp;&nbsp;&nbsp;&nbsp;VERY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BIG
+- SO BIG WE'LL STAND UP TALL AND SEE PAST THE DARK
+- STAND UP WITH OUR HEADS IN THE CLOUDS AND LOOK INTO
+- H E A V E N
+- I
+  - JUST NEED
+  - THAT LITTLE,
+- \[\[SOUL\]\]
+  - Y O U HAVE
+- ***\[Susie\]*** Kris!
+- The hell was that weirdo!?
+- ***\[Ralsei\]*** Kris, we were worried about you, so...
+- ***\[Spamton\]*** KRIS!!! YOU HAVE \[Friends\]!?
+- WHY DON'T YOU TELL THEM ABOUT MY \[3 for One Specil\]!
+- TODAY, THE WHOLE FAMILY CAN TAKE A LITTLE \[Ride Around Town\]...
+- \[Attention Customers! Clean up on Aisle 3!\]
+- SOMEONE LEFT \[There\] SOULS, \[Lyeing Around......\]
+- Kris!?!? WAS THAT A \[BIG SHOT\] JUST NOW!?
+- WOW!!!
+  - I'M SO \[Proud\] OF YOU, I COULD \[Killed\] YOU!
+- \[Heaven\], are you WATCHING?
+- IT'S TIME TO MAKE A VERY \[Specil\] DEAL...
