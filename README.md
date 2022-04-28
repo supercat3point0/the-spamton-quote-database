@@ -39,6 +39,88 @@
 - \[\[Show it off?\]\]
 - HAEAHAEAHAEAHAEAH!!
 
+### Battle
+
+- ENL4RGE Yourself
+
+---
+
+- TRANSMIT KROMER
+
+---
+
+- MEET LOCAL SINGLES STRAIGHT FROM \[My\]
+
+---
+
+- Get Big and WIN \[W1ld Pr1zes!\]
+
+---
+
+- \[Press F1 For\] HELP
+
+---
+
+- HELP
+
+#### First Deal
+
+- HEY HEY HEY! I'VE NEVER SEEN A \[HeartShapedObject\] LIKE THAT BEFORE!! MY EYES ARE \[\[Burning\]\] LIKE \[\[DVDs of ANY movie at Half-pr1ce!\]\] I HAVE A VERY SPECIL \[Deal\] FOR YOU KID!
+  - **Subsequent Reads**
+    - KID!!! IN BUSINESS YOU NEED TO SAY YOU'RE INTERESTED!!!
+  - **\[TELL ME MORE\]**
+    - THAT'S THE ATTITUDE YOU LITTLE \[Slime\]! DEALS LIKE THIS ONLY COME ONCE IN YOUR \[\[Ant-sized\]\] \[\[Rapidly-shrinking\]\] LIFE!!
+  - **\[NOT INTERESTED\]**
+    - WRONG ANSWER!!! WRONG!!! WRONG!!! WRONG!!! TRY AGAIN!!!
+
+#### Second Deal
+
+<!--"BIG SHOT" is in red-->
+- BELIEVE IT OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;!! I USED TO be A **BIG SHOT**. THE BIGGEST!!! BUT NOW... I NEED A LITTLE \[\[Genorisity\]\]
+  - **Subsequent Reads**
+    - YUM YUM I NEED A LITTLE MORE \[Genorisity\]
+  - **\[GIVE MONEY\]**
+    - YUM YUM. DELICIS KROMER. DID YOU HAVE AN YMORE?
+  - **\[DON'T GIVE\]**
+    - THAT'S RIGHT AND I DON'T MEAN \[Money\]!!! I'M A SALESMAN&nbsp;&nbsp;&nbsp;, I WAS NEVER IN IT FOR THE MONEY!!!
+
+#### Third Deal
+
+- I WAS ONLY EVER IN IT FOR THE \[Freedom\]. TO MAKE YOUR OWN \[Deals\] TO CALL YOUR OWN \[Shots\] AND SOMETIMES IN THE MORNING, A LITTLE \[Hyperlink Blocked\] SOUNDS GOOD. DOESN;T IT?KID? DON'T YOU W4NT TO BE JUST LIKE YOUR OLD PAL SPAMTON???? TAKE THE DE4L.
+  - **Subsequent Reads**
+    - TAKE THE DEAL YOU LITTLE \[Sponge\]
+  - **\[DON'T TAKE THE DEAL\]**
+    - DEAL OR NO DEAL, THAT'S THE TV SHOW WHERE THE PEOPLE WHO DON'T TAKE THE DEAL GET FILLED WITH BULLETS FIRED FROM THE HOST'S MOUTH!!!
+  - **\[TAKE DEAL\]**
+    - NOW THAT'S WHAT I'M TALKING AB04T! YOU GOT \[Guts\] KID!! THAT's \[\[Discomfort And Abdominal Pain\]\] IN MY \[\[Guts\]\]!!
+
+#### Forth Deal
+
+- DONT WORRY KID I WILL GIVE YOU \[Deal Insurance\] ONLY FOR THE LOW, LOW PRICE OF 1000 KROMER. AN AWESOME PRICE.! AN ABSOLUTELY \[\[Terrifying\]\] PRICE PRICES SO LOW, EVERYONE I KNOW IS \[\[Dead\]\]!!!
+  - **Subsequent Reads**
+    - YUM YUM DID YOU WANT SOME MORE INSURANCE?
+  - **\[BUY INSURANCE\]**
+    - YUM YUM. DELICIS KROMER. DID YOU HAVE AN YMORE?
+  - **\[DON'T BUY\]**
+    - WHAT!? YOU DOn'T HAVE ENOUGH \[Wacky Stacks\]!? Kid, you're \[Killing\] me! HAHAHA!! HAHAHA!!! PLEASE STOP \[Killing\] ME I WILL GIVE Y OU ANOTHER DEAL.
+
+#### Fifth Deal
+
+- DON'T WORRY KIDS I'M AN \[HonestMan\] I JUST NEED YOUR \[Account Details\] AND THE \[Number on theB4ck\]! THEN YOU CAN ENJ0Y 1000 Fr3e KROmer
+  - **Subsequent Reads**
+    - YUM YUM DID YOU HAVE ANY MORE ACCOUNTS?
+  - **\[GIVE ACCOUNT ACCESS\]**
+    - YUM YUM GREAT DEAL KID!! YOUR A BIGSHOT!! SAVING THE WORLD!!
+  - **\[REFUSE\]**
+    - WHAT!?!? YOU DON"T NEED IT!?!? THAT'S A REAL BIGSHOT MOVE KID!!! YOU'RE LIKE ME... \[Desperate\] BUT WE KNOW WHAT WE WANT, DON'T WE!? W1LD PR1ZES, HOTSINGLE, 100 CUSTOMER, AND MOST OF ALL... \[Hyperlink Blocked\]. WILL YOU TAKE THE FINAL DEAL!? REMEMBER... THIS IS UP TO YOU! I WOn'T FORCE YOU.
+
+#### Final Deal
+
+- **\[NO DEAL\]**
+  - WRONG
+- **\[YES DEAL\]**
+  - THEN A DEAL'S A DEAL!!! PLEASURE DOING BUSINESS WITH YOU KID!!!
+
 ## Neutral
 
 ### Upon Entrance
