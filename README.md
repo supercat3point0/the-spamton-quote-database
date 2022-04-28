@@ -63,7 +63,9 @@
 
 - HELP
 
-#### First Deal
+#### Deals
+
+##### First Deal
 
 - HEY HEY HEY! I'VE NEVER SEEN A \[HeartShapedObject\] LIKE THAT BEFORE!! MY EYES ARE \[\[Burning\]\] LIKE \[\[DVDs of ANY movie at Half-pr1ce!\]\] I HAVE A VERY SPECIL \[Deal\] FOR YOU KID!
   - **Subsequent Reads**
@@ -73,7 +75,7 @@
   - **\[NOT INTERESTED\]**
     - WRONG ANSWER!!! WRONG!!! WRONG!!! WRONG!!! TRY AGAIN!!!
 
-#### Second Deal
+##### Second Deal
 
 <!--"BIG SHOT" is in red-->
 - BELIEVE IT OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;!! I USED TO be A **BIG SHOT**. THE BIGGEST!!! BUT NOW... I NEED A LITTLE \[\[Genorisity\]\]
@@ -84,7 +86,7 @@
   - **\[DON'T GIVE\]**
     - THAT'S RIGHT AND I DON'T MEAN \[Money\]!!! I'M A SALESMAN&nbsp;&nbsp;&nbsp;, I WAS NEVER IN IT FOR THE MONEY!!!
 
-#### Third Deal
+##### Third Deal
 
 - I WAS ONLY EVER IN IT FOR THE \[Freedom\]. TO MAKE YOUR OWN \[Deals\] TO CALL YOUR OWN \[Shots\] AND SOMETIMES IN THE MORNING, A LITTLE \[Hyperlink Blocked\] SOUNDS GOOD. DOESN;T IT?KID? DON'T YOU W4NT TO BE JUST LIKE YOUR OLD PAL SPAMTON???? TAKE THE DE4L.
   - **Subsequent Reads**
@@ -94,7 +96,7 @@
   - **\[TAKE DEAL\]**
     - NOW THAT'S WHAT I'M TALKING AB04T! YOU GOT \[Guts\] KID!! THAT's \[\[Discomfort And Abdominal Pain\]\] IN MY \[\[Guts\]\]!!
 
-#### Forth Deal
+##### Forth Deal
 
 - DONT WORRY KID I WILL GIVE YOU \[Deal Insurance\] ONLY FOR THE LOW, LOW PRICE OF 1000 KROMER. AN AWESOME PRICE.! AN ABSOLUTELY \[\[Terrifying\]\] PRICE PRICES SO LOW, EVERYONE I KNOW IS \[\[Dead\]\]!!!
   - **Subsequent Reads**
@@ -104,7 +106,7 @@
   - **\[DON'T BUY\]**
     - WHAT!? YOU DOn'T HAVE ENOUGH \[Wacky Stacks\]!? Kid, you're \[Killing\] me! HAHAHA!! HAHAHA!!! PLEASE STOP \[Killing\] ME I WILL GIVE Y OU ANOTHER DEAL.
 
-#### Fifth Deal
+##### Fifth Deal
 
 - DON'T WORRY KIDS I'M AN \[HonestMan\] I JUST NEED YOUR \[Account Details\] AND THE \[Number on theB4ck\]! THEN YOU CAN ENJ0Y 1000 Fr3e KROmer
   - **Subsequent Reads**
@@ -114,12 +116,69 @@
   - **\[REFUSE\]**
     - WHAT!?!? YOU DON"T NEED IT!?!? THAT'S A REAL BIGSHOT MOVE KID!!! YOU'RE LIKE ME... \[Desperate\] BUT WE KNOW WHAT WE WANT, DON'T WE!? W1LD PR1ZES, HOTSINGLE, 100 CUSTOMER, AND MOST OF ALL... \[Hyperlink Blocked\]. WILL YOU TAKE THE FINAL DEAL!? REMEMBER... THIS IS UP TO YOU! I WOn'T FORCE YOU.
 
-#### Final Deal
+##### Final Deal
 
 - **\[NO DEAL\]**
   - WRONG
 - **\[YES DEAL\]**
   - THEN A DEAL'S A DEAL!!! PLEASURE DOING BUSINESS WITH YOU KID!!!
+
+#### Win
+
+##### Spare
+
+- NOW ON TO THE NEXT STEP...
+- I'LL BE WAITING AT MY \[\[Home-made Storefront Site\]\]
+- IN THE \[\[Trash Area Closed For Repairs.\]\]
+- COME... ALONE.
+- AND DON'T... FORGET!
+- TO \[\[Like And Subscribe\]\] FOR MORE \[\[Hyperlink Blocked.\]\]
+- HAEAHAEAHAEAHAEAH!!
+
+##### Kill
+
+- HEY!!! DIDN'T YOU EVER HEAR THE PHRASE, \[Make Money, Not War\]!
+- HOW'S AN INNOCENT GUY LIKE ME SUPPOSED TO \[Rip People Off\]
+- WHEN KIDS LIKE YOU ARE \[Beating People Up\],
+- \[Spitting\] IN THEIR EYES, THROWING SAND IN THEIR \[Face\],
+- \[Stomping\] ON THEIR TOES, YANKING THEIR \[Noses\],
+- AND NOT EVEN GIVING THEM A SINGLE CENT FOR IT!?
+- YOU SHOULD HAVE DONE ALL THAT EARLIER!
+- AND BEEN THE FIRST TO OWN MY \[Commemorative Ring\]
+- TOO BAD! SEE YOU KID!
+
+---
+
+- HEY!!! DIDN'T YOU EVER HEAR THE PHRASE, \[Make Money, Not War\]!
+- HOW'S AN INNOCENT GUY LIKE ME SUPPOSED TO \[Rip People Off\]
+- WHEN KIDS LIKE YOU ARE \[Beating People Up\],
+- \[Spitting\] IN THEIR EYES, THROWING SAND IN THEIR \[Face\],
+- \[Stomping\] ON THEIR TOES, YANKING THEIR \[Noses\],
+- AND NOT EVEN GIVING THEM A SINGLE CENT FOR IT!?
+- IT DOESN'T MEAN YOU CAN BEAT ME UP,
+- JUST BECAUSE YOU BOUGHT MY \[Commemorative Ring\]!
+- AT LEAST BUY \[2\]!
+- TOO BAD! SEE YOU KID!
+
+#### Flavor Text
+
+- **Encounter**
+  - DON'T YOU WANNA BE A BIG SHOT?
+- **\[CHECK\]**
+  <!--"DEAL" and "MONEY" are in yellow-->
+  - He wants to make a **DEAL**, but don't give him your **MONEY**! 
+- **\[GIVE MONEY\]**
+  - (You felt your KROMER being absorbed...) (Wrong choice...?)
+- **Turn 1**
+  - THERE'S NOTHING WRONG WITH HAVING A NICE \[Splurge\] EVERY ONCE IN A WHILE
+- **Turn 2**
+  - There's nothing wrong. There's NOTHING WRONG. THERE'S NOTHING WRONG.
+- **Subsequent Turns**
+  - Great ENEMY! SUSCRIBE NOW!
+  - Spamton mutters "1997."
+  - Smells like KROMER.
+  - CONGRULATIONS YOU ARE THE 100th VISITOR!!! CLICK HERE TO \[Die\]
+  - Spamton flashes an award-losing smile.
 
 ## Neutral
 
