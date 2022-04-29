@@ -79,8 +79,7 @@
 
 ##### Second Deal
 
-<!--"BIG SHOT" is in red-->
-- BELIEVE IT OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;!! I USED TO be A **BIG SHOT**. THE BIGGEST!!! BUT NOW... I NEED A LITTLE \[\[Genorisity\]\]
+- BELIEVE IT OR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;!! I USED TO be A **BIG SHOT**. THE BIGGEST!!! BUT NOW... I NEED A LITTLE \[\[Genorisity\]\] <!--"BIG SHOT" is in red-->
   - **Subsequent Reads**
     - YUM YUM I NEED A LITTLE MORE \[Genorisity\]
   - **\[GIVE MONEY\]**
@@ -167,8 +166,7 @@
 - **Encounter**
   - DON'T YOU WANNA BE A BIG SHOT?
 - **\[CHECK\]**
-  <!--"DEAL" and "MONEY" are in yellow-->
-  - He wants to make a **DEAL**, but don't give him your **MONEY**! 
+  - He wants to make a **DEAL**, but don't give him your **MONEY**! <!--"DEAL" and "MONEY" are in yellow-->
 - **\[GIVE MONEY\]**
   - (You felt your KROMER being absorbed...) (Wrong choice...?)
 - **Turn 1**
@@ -333,16 +331,14 @@
 - TRY A LITTLE \[Friday Night Work Out\]...
 - THEN I'LL SHOW YOU MY
 - THEN I'LL SHOW YOU MY
-<!--4 is the number of enemies left-->
-- 4 LEFT.
+- 4 LEFT. <!--4 is the number of enemies left-->
 
 ---
 
 - GET STRONGER!
 - THEN I'LL SHOW YOU MY
 - THEN I'LL SHOW YOU MY
-<!--4 is the number of enemies left-->
-- 4 LEFT.
+- 4 LEFT. <!--4 is the number of enemies left-->
 
 ---
 
