@@ -735,6 +735,6 @@
 
 ## License
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0)
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0)
 
-[The Spamton Quote Database](https://github.com/supercat3point0/TheSpamtonQuoteDatabase) © 2022 by [Bennett Jann](https://github.com/supercat3point0) is licensed under [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0)
+[The Spamton Quote Database](https://github.com/supercat3point0/TheSpamtonQuoteDatabase) © 2022 by [Bennett Jann](https://github.com/supercat3point0) is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0)
