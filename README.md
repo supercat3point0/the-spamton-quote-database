@@ -576,8 +576,7 @@
 
 - ... Kris...? Kris!? KRIS!?!?!?
 - YOU FILLED YOUR \[Inventorium\] WITH \[Half-Pr1ce Sallamy\] JUST TO KEEP ME OUT!?
-<!--The game pauses on "F" for a significant duration-->
-- WHAT! THE! \[Fifty Percent Off\]!?
+- WHAT! THE! \[Fifty Percent Off\]!? <!--The game pauses on "F" for a significant duration-->
 - YOU CAN CARRY LIKE 48 ITEMS!!!
 - \[Why\] DID YOU DO THIS!? WHY!? \[Y\]!? \[Yellow\]!? \[Gamma\]!?
 - NOT \[Cool\] KRIS! I'LL BE IN MY \[Trailer\]!
